@@ -1,3 +1,5 @@
 *.csv
 *.json
 *.ini
+*.png
+*.tex
