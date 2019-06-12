@@ -3,3 +3,4 @@
 *.ini
 *.png
 *.tex
+notebooks/.ipynb_checkpoints/
